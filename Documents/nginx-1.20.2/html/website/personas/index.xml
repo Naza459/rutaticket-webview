@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personas on CredicardPagos</title>
+    <link>/personas/</link>
+    <description>Recent content in Personas on CredicardPagos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Copyright: Paguetodo.com</copyright><atom:link href="/personas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.- Registro</title>
+      <link>/personas/personas-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personas/personas-1/</guid>
+      <description>Ingresa a nuestra página en la sección &amp;ldquo;¿Aún no eres miembro?</description>
+    </item>
+    
+    <item>
+      <title>2.- Ingrese los datos</title>
+      <link>/personas/personas-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personas/personas-2/</guid>
+      <description> Inicia sesión con tu Correo Electrónico y Contraseña Completa el pago que requieras  </description>
+    </item>
+    
+    <item>
+      <title>3.- Pague</title>
+      <link>/personas/personas-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personas/personas-3/</guid>
+      <description> Busca el botón “Pagar” a la hora de pagar en línea Luego podrás ver tus reportes de pagos en la billetera  </description>
+    </item>
+    
+  </channel>
+</rss>

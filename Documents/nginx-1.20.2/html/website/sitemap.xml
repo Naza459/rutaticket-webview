@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/personas/personas-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/comercios/comercios-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/personas/personas-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/comercios/comercios-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/personas/personas-3/</loc>
+  </url>
+  
+  <url>
+    <loc>/comercios/comercios-3/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/comercios/</loc>
+  </url>
+  
+  <url>
+    <loc>/contacto/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/desarrolladores/</loc>
+  </url>
+  
+  <url>
+    <loc>/tyc/</loc>
+  </url>
+
+  <url>
+    <loc>/pv/</loc>
+  </url>
+  
+  <url>
+    <loc>/personas/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

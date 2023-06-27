@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comercios on CredicardPagos</title>
+    <link>/comercios/</link>
+    <description>Recent content in Comercios on CredicardPagos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Copyright: Paguetodo.com</copyright><atom:link href="/comercios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.- Solicita Afiliación</title>
+      <link>/comercios/comercios-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/comercios/comercios-1/</guid>
+      <description> Solicita una afiliación a CredicardPagos en el banco de tu preferencia  </description>
+    </item>
+    
+    <item>
+      <title>2.- Registrate en CredicardPagos</title>
+      <link>/comercios/comercios-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/comercios/comercios-2/</guid>
+      <description>Crea una cuenta con el correo electrónico y los datos de tu negocio.</description>
+    </item>
+    
+    <item>
+      <title>3.- Recibe pagos</title>
+      <link>/comercios/comercios-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/comercios/comercios-3/</guid>
+      <description> Comienza a recibir pagos con las tarjetas de los bancos afiliados al servicio  </description>
+    </item>
+    
+  </channel>
+</rss>
