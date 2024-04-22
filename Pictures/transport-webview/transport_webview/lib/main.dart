@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       localizationsDelegates: [
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate,
-        SfGlobalLocalizations.delegate
+        SfGlobalLocalizations.delegate,
       ],
       supportedLocales: [
         const Locale('es', 'ES'),
@@ -78,9 +78,18 @@ class _WebViewExampleState extends State<WebViewExample> {
             builder: (context, AsyncSnapshot<String> snapshot) {
               if (snapshot.connectionState == ConnectionState.done &&
                   snapshot.hasData) {
-                return Text(
-                  'Versión ${snapshot.data}',
-                  style: const TextStyle(color: Colors.white),
+                // Se usa un Row para llenar el espacio de la AppBar y MainAxisAlignment.end para alinear el texto a la derecha.
+                return Row(
+                  mainAxisAlignment: MainAxisAlignment.end,
+                  children: [
+                    Text(
+                      'Rutaticket ${snapshot.data}',
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 19,
+                      ),
+                    ),
+                  ],
                 );
               }
               return const Text('Cargando...');
