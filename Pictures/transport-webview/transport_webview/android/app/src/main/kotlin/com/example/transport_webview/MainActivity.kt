@@ -1,9 +1,8 @@
-package com.example.transport_webview
-
+package com.rutaticket.transport_webview
 import android.os.Bundle
 import io.flutter.embedding.android.FlutterActivity
-import java.util.Locale
 import android.content.res.Configuration
+import java.util.Locale
 
 class MainActivity: FlutterActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -14,4 +13,14 @@ class MainActivity: FlutterActivity() {
         config.setLocale(locale)
         baseContext.resources.updateConfiguration(config, baseContext.resources.displayMetrics)
     }
+
+    // Método para manejar la respuesta de permisos
+    override fun onRequestPermissionsResult(
+            requestCode: Int,
+            permissions: Array<String>,
+            grantResults: IntArray
+    ) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults)
+    }
 }
+
